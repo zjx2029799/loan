@@ -40,6 +40,7 @@ Then create the new repositary and go into the project root folder
 ```
 $ ng build --prod --base-href https://<your github username>.github.io/<your project name>/
 ```
+Finally publish it
 ```
 $ ngh
 ```
