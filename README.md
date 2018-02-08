@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## how to deploy
+
+First you need node.js and angular-cli
+
+```
+$ npm i -g install angular-cli-ghpages
+```
+
+Then create the new repositary and go into the project root folder
+
+```
+$ ng build --prod --base-href https://<your github username>.github.io/<your project name>/
+```
+```
+$ ngh
+```
