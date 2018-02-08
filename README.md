@@ -30,6 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 First you need node.js and angular-cli
 
+angular-cli for github pages
 ```
 $ npm i -g install angular-cli-ghpages
 ```
