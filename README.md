@@ -45,7 +45,7 @@ Finally publish it
 $ ngh
 ```
 
-'''
+```
 Demo URL:
 https://zjx2029799.github.io/loan/
-'''
+```
